@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fir-ca7b5",
+  "private_key_id": "c4a0f7e8d9c6b5a4f3e2d1c0b9a8f7e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNh8UfWgYqLw4d\nkI6lS8rK9mNpP3q2sV7tJ8yZxMvQ1cFbYgHnRqXvT2sD3aK7pL9mNpP3q2sV7t\nJ8yZxMvQ1cFbYgHnRqXvT2sD3aK7pL9mNpP3q2sV7tJ8yZxMvQ1cFbYgHnRqXv\nT2sD3aK7pL9mNpP3q2sV7tJ8yZxMvQ1cFbYgHnRqXvT2sD3aK7pL9mNpP3q2sV\n7tJ8yZxMvQ1cFbYgHnRqXvT2sD3aK7pL9mNpP3q2sV7tJ8yZxMvQ1cFbYgHnRqXv\nT2sD3aK7pL9mNpP3q2sV7tJ8yZxMvQ1cFbYgHnRqXvT2sD3aK7pL9mNpP3q2sV\n7tJ8yZxMvQ1cFbYgHnRqXvT2sD3aK7pL9mNpP3q2sV7tJ8yZxMvQ1cFbYgHnRqXv\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-f0a1b@fir-ca7b5.iam.gserviceaccount.com",
+  "client_id": "112233445566778899000",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f0a1b%40fir-ca7b5.iam.gserviceaccount.com"
+}
